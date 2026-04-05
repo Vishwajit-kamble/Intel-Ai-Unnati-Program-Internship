@@ -140,7 +140,7 @@ npm run preview
 - **Aadhaar Numbers Masked** – Only the **last 4 digits** are displayed  
 - **Secure HTTPS Communication** for all requests  
 - **No Permanent Document Storage** without explicit user consent  
-- **Sensitive Keys** managed using **environment variables.**
+- **Sensitive Keys** managed using **environment variables**
 
 
 
