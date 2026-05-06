@@ -48,9 +48,9 @@ It simplifies government form filling by extracting information from documents s
 - 🔐 **Secure Processing** (masked Aadhaar, no permanent storage)
 
 ### User Experience
-- Step-by-step form wizard
-- Responsive design (desktop, tablet, mobile)
-- Accessible UI with validation feedback
+- Step-by-step form wizard.
+- Responsive design (desktop, tablet, mobile).
+- Accessible UI with validation feedback.
 
 ---
 ## 🚀 Installation
